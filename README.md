@@ -40,10 +40,29 @@ These models help analyze relationships between economic indicators and poverty 
 
 ## Model Output Visualization
 
-### Prediction Graph
-![Prediction Graph](results/prediction_graph.png)
-### Model Performance
-![Model Accuracy](results/model_accuracy.png)
+### Actual vs Predicted Values
+![Actual vs Predicted](results/results_Actual%20vs%20Predicted.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](results/results_Coorelation%20Heatmap.png)
+
+### Poverty Headcount Distribution
+![Distribution](results/results_Distribution%20of%20Poverty%20Headcount.png)
+
+### Feature Importance
+![Feature Importance](results/results_Feature%20Importance.png)
+
+### Poverty Headcount Ratio
+![Headcount Ratio](results/results_Headcount%20ratio%20(H).png)
+
+### Income Before Outlier Handling
+![Income Before Outliers](results/results_Income%20Before%20Outlier%20Handling.png)
+
+### Income After Outlier Handling
+![Income After Outliers](results/results_Income%20After%20Outlier%20Handling.png)
+
+### Residual Analysis
+![Residual Analysis](results/results_Residual%20Analysis.png)
 
 ## Project Structure
 dataset/ → Contains dataset used for training and testing

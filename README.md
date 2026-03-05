@@ -38,6 +38,13 @@ The following machine learning models were explored:
 * Gradient Boosting Regressor
 These models help analyze relationships between economic indicators and poverty levels.
 
+## Model Output Visualization
+
+### Prediction Graph
+![Prediction Graph](results/prediction_graph.png)
+### Model Performance
+![Model Accuracy](results/model_accuracy.png)
+
 ## Project Structure
 dataset/ → Contains dataset used for training and testing
 notebooks/ → Jupyter Notebook implementation of the project

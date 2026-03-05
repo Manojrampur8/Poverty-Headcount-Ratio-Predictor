@@ -1,6 +1,14 @@
 # Poverty-Headcount-Ratio-Predictor
 Machine Learning model to predict poverty headcount ratio using socio-economic indicators (World Bank dataset).
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Model-green)
+![Dataset](https://img.shields.io/badge/Dataset-World%20Bank-purple)
+![Project](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## Project Overview
 This project develops a **Machine Learning model to predict the Poverty Headcount Ratio** using socio-economic indicators obtained from the **World Bank dataset**.
 The goal of the project is to analyze economic indicators and estimate poverty levels using data-driven machine learning techniques.
